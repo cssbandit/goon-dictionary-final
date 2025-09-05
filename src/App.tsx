@@ -1,4 +1,5 @@
 import React from 'react';
+// Updated pronunciation to /ɡɔːn/
 
 function App() {
   return (
