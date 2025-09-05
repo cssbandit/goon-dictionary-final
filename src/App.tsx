@@ -96,7 +96,7 @@ function App() {
                   <div className="absolute -bottom-1 right-1 w-1 h-3 bg-red-600 rounded-full opacity-50"></div>
                   <div className="absolute top-1 right-8 w-1 h-1 bg-red-700 rounded-full opacity-70"></div>
                   
-                  CA: 8HHuE7ZL3wTMVhgwHGZmpnP4xtaPG2Wp12HfavtXpump
+                  CA: 9oRLJXJhLSTdwMzwGY4Mbxfp12yY887zESukiXGQpump
                 </div>
               </div>
             </section>
@@ -260,14 +260,14 @@ function App() {
               <p className="text-xs text-amber-800 font-mono break-all" style={{
                 textShadow: '0.3px 0.3px 1px rgba(0,0,0,0.1)'
               }}>
-                8HHuE7ZL3wTMVhgwHGZmpnP4xtaPG2Wp12HfavtXpump
+                9oRLJXJhLSTdwMzwGY4Mbxfp12yY887zESukiXGQpump
               </p>
             </div>
 
             {/* Community Link */}
             <div className="text-center">
               <a 
-                href="https://x.com/apegoondotfun" 
+                href="https://x.com/i/communities/1963885029794181367" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-amber-800 text-white px-6 py-3 rounded-lg font-bold hover:bg-amber-700 transition-colors duration-200 transform hover:scale-105"
