@@ -30,7 +30,7 @@ function App() {
             textShadow: '1px 1px 2px rgba(0,0,0,0.2)',
             transform: 'rotate(0.1deg)'
           }}>
-            noun /ˈguːn/
+            noun /ɡɔːn/
           </div>
           <div className="text-lg text-amber-700" style={{ 
             fontFamily: 'Times, "Times New Roman", serif',
