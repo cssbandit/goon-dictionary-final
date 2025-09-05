@@ -7,7 +7,7 @@ function App() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/ChatGPT Image Aug 2, 2025, 03_20_43 PM (1) (1) (1) (1) copy.png')",
+          backgroundImage: "url('./ChatGPT Image Aug 2, 2025, 03_20_43 PM (1) (1) (1) (1) copy.png')",
           filter: 'sepia(10%) contrast(90%) brightness(95%)'
         }}
       ></div>
@@ -223,7 +223,7 @@ function App() {
             {/* First Derpina Image */}
             <div className="text-center">
               <img 
-                src="/Untitled (Your Story)13513531.png" 
+                src="./Untitled (Your Story)13513531.png" 
                 alt="GOON Chart Addict Mascot" 
                 className="w-full max-w-lg h-auto transform -rotate-0.5"
                 style={{ 
@@ -279,7 +279,7 @@ function App() {
             {/* Second Derpina Image */}
             <div className="text-center">
               <img 
-                src="/Untitled (Your 13513513513513513513.png" 
+                src="./Untitled (Your 13513513513513513513.png" 
                 alt="GOON Cave Setup" 
                 className="w-full max-w-lg h-auto transform rotate-0.3"
                 style={{ 
